@@ -2,7 +2,7 @@
 
 ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)  
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9.22-blue.svg)  
-![Android](https://img.shields.io/badge/Android-14.0+-green.svg)
+![Android](https://img.shields.io/badge/Android-5.0+-green.svg)
 
 **The Movie List** is an Android application that allows users to browse and explore movie details using [The Movie Database (TMDb) API](https://www.themoviedb.org/). The app features a paginated movie list, detailed movie views, favorite toggling, and layout switching between grid and list views. It is built with modern Android development practices, using Kotlin, Jetpack libraries, and clean architecture principles.
 
