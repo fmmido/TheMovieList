@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TheMovieList</string>
+
+
+        <string name="error_message">An error occurred</string>
+        <string name="toggle_layout">Toggle between list and grid view</string>
+    <string name="movie_poster">Movie Poster</string>
+
+
+    <string name="favorite">Favorite</string>
+    <string name="retry">Retry</string>
+</resources>
