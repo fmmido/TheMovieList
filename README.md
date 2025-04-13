@@ -22,6 +22,13 @@ Click the image below to watch a short demo of **The Movie List** on YouTube Sho
 - **Offline Support**: Access locally cached movie details when offline, with online syncing via the TMDb API.
 - **Scroll Position Retention**: Preserves the scroll position in the movie list when navigating back from the details screen.
 
+## Screenshots
+
+| Home Screen (List View) | Home Screen (Grid View) | Movie Details |
+|-------------------------|-------------------------|----------------|
+| ![Home List View](https://raw.githubusercontent.com/fmmido/TheMovieList/main/screenshots/home_list_view.png) | ![Home Grid View](https://raw.githubusercontent.com/fmmido/TheMovieList/main/screenshots/home_grid_view.png) | ![Details Screen](https://raw.githubusercontent.com/fmmido/TheMovieList/main/screenshots/details_screen.png) |
+
+
 ## Tech Stack
 
 - **Language**: Kotlin
