@@ -6,6 +6,13 @@
 
 **The Movie List** is an Android application that allows users to browse and explore movie details using [The Movie Database (TMDb) API](https://www.themoviedb.org/). The app features a paginated movie list, detailed movie views, favorite toggling, and layout switching between grid and list views. It is built with modern Android development practices, using Kotlin, Jetpack libraries, and clean architecture principles.
 
+## Demo Video
+
+Click the image below to watch a short demo of **The Movie List** on YouTube Shorts:
+
+[![Demo Video](https://img.youtube.com/vi/smyCPXrP7Vg/maxresdefault.jpg)](https://youtube.com/shorts/smyCPXrP7Vg)
+
+
 ## Features
 
 - **Paginated Movie List**: Browse a list of movies with infinite scrolling, powered by the Paging 3 library.
