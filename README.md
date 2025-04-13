@@ -13,6 +13,9 @@ Click the image below to watch a short demo of **The Movie List** on YouTube Sho
 [![Demo Video](https://img.youtube.com/vi/smyCPXrP7Vg/maxresdefault.jpg)](https://youtube.com/shorts/smyCPXrP7Vg)
 
 
+- **Full Demo**:  
+  [![Full Demo](https://img.youtube.com/vi/pSe6rWTTre0/maxresdefault.jpg)](https://www.youtube.com/watch?v=pSe6rWTTre0)
+
 ## Features
 
 - **Paginated Movie List**: Browse a list of movies with infinite scrolling, powered by the Paging 3 library.
