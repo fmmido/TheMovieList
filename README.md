@@ -26,7 +26,7 @@ Click the image below to watch a short demo of **The Movie List** on YouTube Sho
 
 | Home Screen (List View) | Home Screen (Grid View) | Movie Details |
 |-------------------------|-------------------------|----------------|
-| ![Home List View](https://raw.githubusercontent.com/fmmido/TheMovieList/main/screenshots/screenshot_1.jpg) | ![Home Grid View](https://raw.githubusercontent.com/fmmido/TheMovieList/main/screenshots/screenshot_2.jpg) | ![Details Screen](https://raw.githubusercontent.com/fmmido/TheMovieList/main/screenshots/screenshot_3.jpg) |
+| ![Home List View](https://raw.githubusercontent.com/fmmido/TheMovieList/main/screenshots/screenshot_3.jpg) | ![Home Grid View](https://raw.githubusercontent.com/fmmido/TheMovieList/main/screenshots/screenshot_2.jpg) | ![Details Screen](https://raw.githubusercontent.com/fmmido/TheMovieList/main/screenshots/screenshot_1.jpg) |
 
 
 ## Tech Stack
