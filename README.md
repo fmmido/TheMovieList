@@ -27,9 +27,17 @@ Click the image below to watch a short demo of **The Movie List** on YouTube Sho
 
 ## Screenshots
 
+### Light Mode
+
+| Home Screen | Movie List (Grid) | Movie Details | Favorites |
+|-------------|-------------------|----------------|-----------|
+| ![Home Light](screenshots/screenshot_4.jpg) | ![Grid Light](screenshots/screenshot_5.jpg) | ![Details Light](screenshots/screenshot_6.jpg) | ![Favorites Light](screenshots/screenshot_7.jpg) |
+
+### Dark Mode
+
 | Home Screen (List View) | Home Screen (Grid View) | Movie Details |
 |-------------------------|-------------------------|----------------|
-| ![Home List View](https://raw.githubusercontent.com/fmmido/TheMovieList/main/screenshots/screenshot_3.jpg) | ![Home Grid View](https://raw.githubusercontent.com/fmmido/TheMovieList/main/screenshots/screenshot_2.jpg) | ![Details Screen](https://raw.githubusercontent.com/fmmido/TheMovieList/main/screenshots/screenshot_1.jpg) |
+| ![List View](screenshots/list_view.png) | ![Grid View](screenshots/grid_view.png) | ![Movie Details](screenshots/movie_details.png) |
 
 
 ## Tech Stack
