@@ -31,7 +31,7 @@ Click the image below to watch a short demo of **The Movie List** on YouTube Sho
 
 | Home Screen | Movie List (Grid) | Movie Details | Favorites |
 |-------------|-------------------|----------------|-----------|
-| ![Home Light](screenshots/screenshot_4.jpg) | ![Grid Light](screenshots/screenshot_5.jpg) | ![Details Light](screenshots/screenshot_6.jpg) | ![Favorites Light](screenshots/screenshot_7.jpg) |
+| ![Home Light](screenshots/screenshot_6.jpg) | ![Grid Light](screenshots/screenshot_5.jpg) | ![Details Light](screenshots/screenshot_4.jpg) | ![Favorites Light](screenshots/screenshot_7.jpg) |
 
 ### Dark Mode
 
