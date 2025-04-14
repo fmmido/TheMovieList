@@ -10,6 +10,14 @@
 
 Click the image below to watch a short demo of **The Movie List** on YouTube Shorts:
 
+## Demo Video (Light Mode)
+
+Watch a quick demo of **The Movie List** app in light mode:
+
+[![Watch the demo](https://img.youtube.com/vi/ypZtET9scDo/0.jpg)](https://youtube.com/shorts/ypZtET9scDo?si=htoQINpAXr7X-8to)
+
+> Click the image or [watch it here directly](https://youtube.com/shorts/ypZtET9scDo?si=htoQINpAXr7X-8to).
+
 [![Demo Video](https://img.youtube.com/vi/smyCPXrP7Vg/maxresdefault.jpg)](https://youtube.com/shorts/smyCPXrP7Vg)
 
 
