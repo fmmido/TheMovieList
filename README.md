@@ -37,7 +37,7 @@ Click the image below to watch a short demo of **The Movie List** on YouTube Sho
 
 | Home Screen (List View) | Home Screen (Grid View) | Movie Details |
 |-------------------------|-------------------------|----------------|
-| ![List View](screenshots/list_view.png) | ![Grid View](screenshots/grid_view.png) | ![Movie Details](screenshots/movie_details.png) |
+| ![List View](screenshots/screenshot_3.jpg) | ![Grid View](screenshots/screenshot_2.jpg)) | ![Movie Details](screenshots/screenshot_1.jpg)) |
 
 
 ## Tech Stack
